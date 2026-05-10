@@ -1,10 +1,6 @@
 Copyright 2026 Wechirok and Renice Cubed contributors
 
-This repository's original materials are licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.
-
 SPDX-License-Identifier: CC-BY-NC-SA-4.0
-
-
 
 Redistribution and use of this repository's original materials, with or without modification, are permitted for non-commercial purposes only, provided that the following conditions are met:
 
