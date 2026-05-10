@@ -1,7 +1,7 @@
 <table>
   <tr>
-    <td>
-      <img src="assets/icon.png" width="96" alt="Renice Cubed logo">
+    <td width="160">
+      <img src="assets/icon.png" width="128" alt="Renice Cubed logo">
     </td>
     <td>
       <h1>Renice Cubed</h1>
@@ -10,16 +10,10 @@
   </tr>
 </table>
 
-[![Modrinth](https://img.shields.io/badge/MODRINTH-Download-00AF5C?style=for-the-badge&logo=modrinth&logoColor=white)](https://modrinth.com/)
-[![GitHub](https://img.shields.io/badge/GITHUB-Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
-[![License](https://img.shields.io/badge/LICENSE-CC_BY--NC--SA_4.0-blue?style=for-the-badge)](LICENSE)
+[![Modrinth](https://img.shields.io/badge/MODRINTH-DOWNLOAD-00AF5C?style=for-the-badge&logo=modrinth&logoColor=white)](https://modrinth.com/modpack/renice-cubed)
+[![CurseForge](https://img.shields.io/badge/CURSEFORGE-DOWNLOAD-F16436?style=for-the-badge&logo=curseforge&logoColor=white)](https://www.curseforge.com/minecraft/modpacks/renice-cubed)
+[![GitHub Releases](https://img.shields.io/badge/GITHUB-RELEASES-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Wechirok/Renice-Cubed/releases)
 
-[![Mod List](https://img.shields.io/badge/MOD_LIST-View-008000?style=for-the-badge)](MODS.md)
-[![Changed Options](https://img.shields.io/badge/CHANGED_OPTIONS-View-007ACC?style=for-the-badge)](CONFIGS.md)
-[![Changelog](https://img.shields.io/badge/CHANGELOG-View-orange?style=for-the-badge)](CHANGELOG.md)
+[![License](https://img.shields.io/badge/LICENSE-CC_BY--NC--SA_4.0-007ACC?style=for-the-badge)](LICENSE)
 
 ---
-
-## Download
-
-[![Download on Modrinth](https://img.shields.io/badge/Download_on-Modrinth-00AF5C?style=for-the-badge&logo=modrinth&logoColor=white)](https://modrinth.com/)
