@@ -5,7 +5,7 @@
     </td>
     <td>
       <h1>Renice Cubed</h1>
-      <p>Fabric modpack focused on gameplay tweaks for a smoother, more enjoyable experience.</p>
+      <p>Minecraft modpack focused on gameplay tweaks for a smoother, more enjoyable experience.</p>
     </td>
   </tr>
 </table>
