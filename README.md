@@ -1,7 +1,7 @@
 <table>
   <tr>
     <td width="160">
-      <img src="assets/icon.png" width="128" alt="Renice Cubed logo">
+      <img src="https://www.dropbox.com/scl/fi/3mtve50hj38hpxpd5lktj/logo-cubed.png?rlkey=obfotvo8jijt2icmsxtmfgucx&st=j9nrqrax&raw=1" width="128" alt="Renice Cubed logo">
     </td>
     <td>
       <h1>Renice Cubed</h1>
