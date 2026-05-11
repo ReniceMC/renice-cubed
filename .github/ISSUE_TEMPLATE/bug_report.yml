@@ -35,8 +35,8 @@ body:
     id: minecraft-version
     attributes:
       label: Minecraft version
-      description: "Example: 1.21.6"
-      placeholder: "1.21.6"
+      description: "Example: 26.1.2"
+      placeholder: "26.1.2"
     validations:
       required: true
 
@@ -109,28 +109,6 @@ body:
       required: true
 
   - type: textarea
-    id: expected-behavior
-    attributes:
-      label: Expected behavior
-      description: What did you expect to happen instead?
-      placeholder: "The game should..."
-    validations:
-      required: true
-
-  - type: textarea
-    id: steps
-    attributes:
-      label: Steps to reproduce
-      description: Write exact steps so the issue can be tested.
-      placeholder: |
-        1. Open the launcher
-        2. Start Renice³
-        3. Join a world/server
-        4. ...
-    validations:
-      required: true
-
-  - type: textarea
     id: logs
     attributes:
       label: Logs or crash report
@@ -151,7 +129,7 @@ body:
         - Shaders/resource packs:
         - Config changes:
     validations:
-      required: true
+      required: false
 
   - type: textarea
     id: screenshots
@@ -160,13 +138,3 @@ body:
       description: Add screenshots or a short video if it helps explain the issue.
     validations:
       required: false
-
-  - type: checkboxes
-    id: confirmation
-    attributes:
-      label: Confirmation
-      options:
-        - label: I am using Renice³ and not a heavily modified custom instance.
-          required: true
-        - label: I included the modpack version, launcher, Minecraft version, and logs.
-          required: true
