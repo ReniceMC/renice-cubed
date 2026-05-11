@@ -130,7 +130,7 @@
   <tr><td><a href="https://modrinth.com/mod/MBAkmtvl">Balm</a><br>&nbsp;</td><td><a href="https://modrinth.com/user/BlayTheNinth">BlayTheNinth</a><br>&nbsp;</td><td align="center">✅<br>&nbsp;</td></tr>
   <tr><td><a href="https://modrinth.com/mod/9s6osm5g">Cloth Config v26.1</a><br>&nbsp;</td><td><a href="https://modrinth.com/user/shedaniel">shedaniel</a><br>&nbsp;</td><td align="center">✅<br>&nbsp;</td></tr>
   <tr><td><a href="https://modrinth.com/mod/e0M1UDsY">Collective</a><br>&nbsp;</td><td><a href="https://modrinth.com/user/Serilum">Serilum</a><br>&nbsp;</td><td align="center">✅<br>&nbsp;</td></tr>
-  <tr><td><a href="https://modrinth.com/mod/P7dR8mSH">Fabric API</a><br>&nbsp;</td><td><a href="https://modrinth.com/user/modmuss50">modmuss50</a><br>&nbsp;</td><td align="center">✅<br>&nbsp;</td></tr>
+  <tr><td><a href="https://modrinth.com/mod/P7dR8mSH">Fabric API</a><br>&nbsp;</td><td><a href="https://modrinth.com/user/modmuss50">modmuss50</a>, <a href="https://modrinth.com/user/Player7457">Player7457</a><br>&nbsp;</td><td align="center">✅<br>&nbsp;</td></tr>
   <tr><td><a href="https://modrinth.com/mod/Ha28R6CL">Fabric Language Kotlin</a><br>&nbsp;</td><td><a href="https://modrinth.com/user/modmuss50">modmuss50</a>, <a href="https://modrinth.com/user/Player7457">Player7457</a><br>&nbsp;</td><td align="center">✅<br>&nbsp;</td></tr>
   <tr><td><a href="https://modrinth.com/mod/ohNO6lps">Forge Config API Port</a><br>&nbsp;</td><td><a href="https://modrinth.com/user/Fuzs">Fuzs</a><br>&nbsp;</td><td align="center">✅<br>&nbsp;</td></tr>
   <tr><td><a href="https://modrinth.com/mod/hYykXjDp">Fzzy Config</a><br>&nbsp;</td><td><a href="https://modrinth.com/user/fzzyhmstrs">fzzyhmstrs</a><br>&nbsp;</td><td align="center">✅<br>&nbsp;</td></tr>
