@@ -55,8 +55,7 @@ body:
     id: logs
     attributes:
       label: Logs or crash report
-      description: Paste latest.log, crash report, or a link to it. Use [Pastebin](https://pastebin.com/), [mclo.gs](https://mclo.gs/), [GitHub Gist](https://gist.github.com/), or attach the file.
+      description: "Paste latest.log, crash report, or a link to it. Use [Pastebin](https://pastebin.com/), [mclo.gs](https://mclo.gs/), [GitHub Gist](https://gist.github.com/), or attach the file."
       placeholder: Paste logs here or add a link...
-      render: shell
     validations:
       required: true
