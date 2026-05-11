@@ -2,8 +2,9 @@
 
 ## QoL
 
-| Mod | 1.0-alpha<br>Minecraft 26.1.2 |
+| Mod | 1.0-alpha |
 |---|:---:|
+| Minecraft version | 26.1.2 |
 | [AppleSkin](https://modrinth.com/mod/EsAfCjCV) | ✅ |
 | [Better Mount HUD](https://modrinth.com/mod/kqJFAPU9) | ✅ |
 | [Better Statistics Screen](https://modrinth.com/mod/n6PXGAoM) | ✅ |
@@ -27,8 +28,9 @@
 
 ## Utilities
 
-| Mod | 1.0-alpha<br>Minecraft 26.1.2 |
+| Mod | 1.0-alpha |
 |---|:---:|
+| Minecraft version | 26.1.2 |
 | [Accurate Block Placement](https://modrinth.com/mod/kzwxhsjp) | ✅ |
 | [Balm](https://modrinth.com/mod/MBAkmtvl) | ✅ |
 | [Cloth Config v26.1](https://modrinth.com/mod/9s6osm5g) | ✅ |
@@ -53,8 +55,9 @@
 
 ## Cosmetics
 
-| Mod | 1.0-alpha<br>Minecraft 26.1.2 |
+| Mod | 1.0-alpha |
 |---|:---:|
+| Minecraft version | 26.1.2 |
 | [3d-Skin-Layers](https://modrinth.com/mod/zV5r3pPn) | ✅ |
 | [Animatica](https://modrinth.com/mod/xEyZuswh) | ✅ |
 | [Continuity](https://modrinth.com/mod/1IjD5062) | ✅ |
@@ -68,8 +71,9 @@
 
 ## Performance
 
-| Mod | 1.0-alpha<br>Minecraft 26.1.2 |
+| Mod | 1.0-alpha |
 |---|:---:|
+| Minecraft version | 26.1.2 |
 | [BBE](https://modrinth.com/mod/ONZm0H7Y) | ✅ |
 | [BadOptimizations](https://modrinth.com/mod/g96Z4WVZ) | ✅ |
 | [Clumps](https://modrinth.com/mod/Wnxd13zP) | ✅ |
