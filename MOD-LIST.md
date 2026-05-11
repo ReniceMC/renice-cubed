@@ -25,8 +25,8 @@
   <tr><td><a href="https://modrinth.com/mod/8qkXwOnk">More Chat History</a><br>&nbsp;</td><td><a href="https://modrinth.com/user/JackFred">JackFred</a><br>&nbsp;</td><td align="center">✅<br>&nbsp;</td></tr>
   <tr><td><a href="https://modrinth.com/mod/qQyHxfxd">No Chat Reports</a><br>&nbsp;</td><td><a href="https://modrinth.com/user/Aizistral">Aizistral</a><br>&nbsp;</td><td align="center">✅<br>&nbsp;</td></tr>
   <tr><td><a href="https://modrinth.com/mod/x02cBj9Y">Status Effect Bars</a><br>&nbsp;</td><td><a href="https://modrinth.com/user/A5b84">A5b84</a><br>&nbsp;</td><td align="center">✅<br>&nbsp;</td></tr>
-  <tr><td><a href="https://modrinth.com/mod/1bokaNcj">Xaero's Minimap</a><br>&nbsp;</td><td><a href="https://modrinth.com/user/xaero96">xaero96</a><br>&nbsp;</td><td align="center">✅<br>&nbsp;</td></tr>
-  <tr><td><a href="https://modrinth.com/mod/NcUtCpym">Xaero's World Map</a><br>&nbsp;</td><td><a href="https://modrinth.com/user/xaero96">xaero96</a><br>&nbsp;</td><td align="center">✅<br>&nbsp;</td></tr>
+  <tr><td><a href="https://modrinth.com/mod/1bokaNcj">Xaero's Minimap</a><br>&nbsp;</td><td><a href="https://modrinth.com/user/thexaero">thexaero</a><br>&nbsp;</td><td align="center">✅<br>&nbsp;</td></tr>
+  <tr><td><a href="https://modrinth.com/mod/NcUtCpym">Xaero's World Map</a><br>&nbsp;</td><td><a href="https://modrinth.com/user/thexaero">thexaero</a><br>&nbsp;</td><td align="center">✅<br>&nbsp;</td></tr>
   <tr><td><a href="https://modrinth.com/mod/w7ThoJFB">Zoomify</a><br>&nbsp;</td><td><a href="https://modrinth.com/user/isxander">isXander</a><br>&nbsp;</td><td align="center">✅<br>&nbsp;</td></tr>
   <tr><td><a href="https://modrinth.com/mod/qANg5Jrr">e4mc</a><br>&nbsp;</td><td><a href="https://modrinth.com/user/vgskye">vgskye</a><br>&nbsp;</td><td align="center">✅<br>&nbsp;</td></tr>
 </table>
