@@ -42,18 +42,6 @@ body:
     validations:
       required: true
 
-  - type: dropdown
-    id: world-type
-    attributes:
-      label: Where does the problem happen?
-      options:
-        - Singleplayer
-        - Multiplayer server
-        - Both
-        - Cannot reach main menu
-    validations:
-      required: true
-
   - type: textarea
     id: problem-description
     attributes:
