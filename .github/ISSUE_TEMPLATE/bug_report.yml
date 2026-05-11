@@ -11,14 +11,6 @@ body:
 
         Check if [the issue already exists](https://github.com/wechirok/renice-cubed/issues) before opening a new one.
 
-  - type: checkboxes
-    id: existing-issue
-    attributes:
-      label: Existing issue check
-      options:
-        - label: I have searched the existing issues and did not find a duplicate.
-          required: true
-
   - type: input
     id: modpack-version
     attributes:
@@ -75,7 +67,7 @@ body:
     id: logs
     attributes:
       label: Logs or crash report
-      description: Paste latest.log, crash report, or a link to it. Use mclo.gs, GitHub Gist, Pastebin, or attach the file.
+      description: Paste latest.log, crash report, or a link to it. Use [Pastebin](https://pastebin.com/), [mclo.gs](https://mclo.gs/), [GitHub Gist](https://gist.github.com/), or attach the file.
       placeholder: Paste logs here or add a link...
       render: shell
     validations:
