@@ -49,7 +49,7 @@
   <tr><td><a href="https://modrinth.com/mod/ETlrkaYF">Cubes Without Borders</a><br>&nbsp;</td><td><a href="https://modrinth.com/user/Kira-NT">Kira-NT</a><br>&nbsp;</td><td align="center">✅<br>&nbsp;</td></tr>
   <tr><td><a href="https://modrinth.com/mod/3qsfQtE9">Fabrishot</a><br>&nbsp;</td><td><a href="https://modrinth.com/user/ramidzkh">ramidzkh</a><br>&nbsp;</td><td align="center">✅<br>&nbsp;</td></tr>
   <tr><td><a href="https://modrinth.com/mod/uLbm7CG6">Language Reload</a><br>&nbsp;</td><td><a href="https://modrinth.com/user/Jerozgen">Jerozgen</a><br>&nbsp;</td><td align="center">✅<br>&nbsp;</td></tr>
-  <tr><td><a href="https://modrinth.com/mod/bEpr0Arc">Litematica</a><br>&nbsp;</td><td><a href="https://modrinth.com/user/masa">masa</a><br>&nbsp;</td><td align="center">✅<br>&nbsp;</td></tr>
+  <tr><td><a href="https://modrinth.com/mod/bEpr0Arc">Litematica</a><br>&nbsp;</td><td><a href="https://modrinth.com/user/masa">masa</a>, <a href="https://modrinth.com/user/sakura-ryoko">sakura-ryoko</a><br>&nbsp;</td><td align="center">✅<br>&nbsp;</td></tr>
   <tr><td><a href="https://modrinth.com/mod/UMxybHE8">MiniHUD</a><br>&nbsp;</td><td><a href="https://modrinth.com/user/masa">masa</a>, <a href="https://modrinth.com/user/sakura-ryoko">sakura-ryoko</a><br>&nbsp;</td><td align="center">✅<br>&nbsp;</td></tr>
   <tr><td><a href="https://modrinth.com/mod/sGmHWmeL">MixinTrace</a><br>&nbsp;</td><td><a href="https://modrinth.com/user/comp500">comp500</a><br>&nbsp;</td><td align="center">✅<br>&nbsp;</td></tr>
   <tr><td><a href="https://modrinth.com/mod/mOgUt4GM">Mod Menu</a><br>&nbsp;</td><td><a href="https://modrinth.com/organization/terraformers">Terraformers</a><br>&nbsp;</td><td align="center">✅<br>&nbsp;</td></tr>
