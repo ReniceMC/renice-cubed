@@ -46,7 +46,7 @@ body:
     id: problem-description
     attributes:
       label: Problem description
-      description: "Describe what happened. Click **Copy a message for support** in Crash Assistant and paste the copied message here. If this is not a crash, attach your log file or provide a link to it using [Pastebin](https://pastebin.com/), [mclo.gs](https://mclo.gs/), or [GitHub Gist](https://gist.github.com/)."
+      description: "Describe what happened. Click **"Copy a message for support"** in Crash Assistant and paste the copied message here. If this is not a crash, attach your log file or provide a link to it using [Pastebin](https://pastebin.com/), [mclo.gs](https://mclo.gs/), or [GitHub Gist](https://gist.github.com/)."
       placeholder: "The game crashes when..."
     validations:
       required: true
