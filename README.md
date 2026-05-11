@@ -1,8 +1,9 @@
+<p align="center">
+  <img src="https://www.dropbox.com/scl/fi/sfumw1bzi88tfowllsime/rc_main-page-artwork.png?rlkey=x4r0rsmogbu0p258y02o2zbu3&st=7vgg1lmv&raw=1" width="100%" alt="Renice Cubed artwork">
+</p>
+
 <table>
   <tr>
-    <td width="118" align="center">
-      <img src="https://www.dropbox.com/scl/fi/4qq9dggltwn44m1nscaax/side-cubed.png?rlkey=9cj2qivak5sjug88djh3movd7&st=bmrz2y16&raw=1" width="118" alt="">
-    </td>
     <td width="160" align="center">
       <img src="https://www.dropbox.com/scl/fi/3mtve50hj38hpxpd5lktj/logo-cubed.png?rlkey=obfotvo8jijt2icmsxtmfgucx&st=j9nrqrax&raw=1" width="128" alt="Renice Cubed logo">
     </td>
