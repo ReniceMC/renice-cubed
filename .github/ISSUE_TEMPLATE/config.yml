@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Mod list
+    url: https://github.com/wechirok/renice-cubed/blob/main/MOD-LIST.md
+    about: Check the included mods before reporting compatibility issues.
+  - name: Changelog
+    url: https://github.com/wechirok/renice-cubed/blob/main/CHANGELOG.md
+    about: Check recent changes before reporting a bug.
