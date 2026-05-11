@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://www.dropbox.com/scl/fi/sfumw1bzi88tfowllsime/rc_main-page-artwork.png?rlkey=x4r0rsmogbu0p258y02o2zbu3&st=7vgg1lmv&raw=1" width="100%" alt="Renice Cubed artwork">
-</p>
-
 <table>
   <tr>
     <td width="160" align="center">
