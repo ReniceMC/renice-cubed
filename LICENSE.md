@@ -20,4 +20,4 @@ Redistribution and use of this repository's original materials, with or without 
 
 8. Neither the name Renice Cubed nor the name of the copyright holder may be used to endorse or promote derivative projects without specific prior written permission.
 
-THIS REPOSITORY'S ORIGINAL MATERIALS ARE PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NON-INFRINGEMENT. IN NO EVENT SHALL THE COPYRIGHT HOLDER BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY ARISING FROM THE USE OF THIS REPOSITORY'S ORIGINAL MATERIALS.
+Disclaimer and limitation of liability are governed by Section 5 of the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License. The repository's original materials are provided as-is and as-available, without warranties of any kind, and the copyright holder is not liable for losses or damages arising from their use.
