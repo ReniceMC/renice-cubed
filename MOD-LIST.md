@@ -1,6 +1,6 @@
 # Mod List
 
-<h2>QoL</h2>
+<h2>Quality of Life</h2>
 
 <table>
   <tr>
