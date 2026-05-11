@@ -11,8 +11,6 @@ body:
 
         Check if [the issue already exists](https://github.com/wechirok/renice-cubed/issues) before opening a new one.
 
-        Include enough information to reproduce or understand the problem.
-
   - type: checkboxes
     id: existing-issue
     attributes:
