@@ -45,6 +45,7 @@
     <td align="center"><strong>26.1.2</strong><br>&nbsp;</td>
   </tr>
   <tr><td><a href="https://modrinth.com/mod/kzwxhsjp">Accurate Block Placement Reborn</a><br>&nbsp;</td><td><a href="https://modrinth.com/user/Kaddicus">Kaddicus</a>, <a href="https://modrinth.com/user/schwar">schwar</a><br>&nbsp;</td><td align="center">✅<br>&nbsp;</td></tr>
+  <tr><td><a href="https://modrinth.com/mod/crash-assistant">Crash Assistant</a><br>&nbsp;</td><td><a href="https://modrinth.com/user/KostromDan">KostromDan</a><br>&nbsp;</td><td align="center">✅<br>&nbsp;</td></tr>
   <tr><td><a href="https://modrinth.com/mod/jlNms3Jp">Config Manager</a><br>&nbsp;</td><td><a href="https://modrinth.com/user/TheBossMagnus">TheBossMagnus</a><br>&nbsp;</td><td align="center">✅<br>&nbsp;</td></tr>
   <tr><td><a href="https://modrinth.com/mod/ETlrkaYF">Cubes Without Borders</a><br>&nbsp;</td><td><a href="https://modrinth.com/user/Kira-NT">Kira-NT</a><br>&nbsp;</td><td align="center">✅<br>&nbsp;</td></tr>
   <tr><td><a href="https://modrinth.com/mod/3qsfQtE9">Fabrishot</a><br>&nbsp;</td><td><a href="https://modrinth.com/user/ramidzkh">ramidzkh</a><br>&nbsp;</td><td align="center">✅<br>&nbsp;</td></tr>
