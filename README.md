@@ -8,6 +8,7 @@ The pack is designed to improve the vanilla mc experience without turning it int
 
 [![MOD LIST](https://img.shields.io/badge/%E2%98%B0_MOD_LIST-222222?style=for-the-badge&labelColor=000000)](MOD-LIST.md)
 [![CHANGELOG](https://img.shields.io/badge/✦_CHANGELOG-222222?style=for-the-badge&labelColor=000000)](https://github.com/wechirok/renice-cubed/blob/main/CHANGELOG.md)
+[![WIKI](https://img.shields.io/badge/📖_WIKI-222222?style=for-the-badge&labelColor=000000)](https://renice-cubed.gitbook.io/renice-wiki)
 
 ---
 
