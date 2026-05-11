@@ -82,7 +82,7 @@
   <tr><td><a href="https://modrinth.com/mod/yBW8D80W">LambDynamicLights</a><br>&nbsp;</td><td><a href="https://modrinth.com/user/LambdAurora">LambdAurora</a><br>&nbsp;</td><td align="center">✅<br>&nbsp;</td></tr>
   <tr><td><a href="https://modrinth.com/mod/qJDfP7WN">Main Menu Credits</a><br>&nbsp;</td><td><a href="https://modrinth.com/user/isxander">isXander</a><br>&nbsp;</td><td align="center">✅<br>&nbsp;</td></tr>
   <tr><td><a href="https://modrinth.com/mod/JuksLGBQ">OptiGUI</a><br>&nbsp;</td><td><a href="https://modrinth.com/user/opekope2">opekope2</a><br>&nbsp;</td><td align="center">✅<br>&nbsp;</td></tr>
-  <tr><td><a href="https://modrinth.com/mod/qyVF9oeo">Sound Physics Remastered</a><br>&nbsp;</td><td><a href="https://modrinth.com/user/Sonic_Ether">Sonic Ether</a>, <a href="https://modrinth.com/user/vlad2305m">vlad2305m</a>, <a href="https://modrinth.com/user/henkelmax">Max Henkel</a>, <a href="https://modrinth.com/user/Saint">Saint</a><br>&nbsp;</td><td align="center">✅<br>&nbsp;</td></tr>
+  <tr><td><a href="https://modrinth.com/mod/qyVF9oeo">Sound Physics Remastered</a><br>&nbsp;</td><td><a href="https://modrinth.com/user/henkelmax">henkelmax</a><br>&nbsp;</td><td align="center">✅<br>&nbsp;</td></tr>
 </table>
 
 <h2>Performance</h2>
