@@ -56,28 +56,6 @@ body:
     validations:
       required: true
 
-  - type: input
-    id: launcher-version
-    attributes:
-      label: Launcher version
-      description: If known, write the launcher version.
-      placeholder: "Example: Prism Launcher 9.2"
-    validations:
-      required: false
-
-  - type: dropdown
-    id: platform
-    attributes:
-      label: Platform
-      options:
-        - Windows
-        - macOS
-        - Linux
-        - Steam Deck / Linux handheld
-        - Other
-    validations:
-      required: true
-
   - type: dropdown
     id: world-type
     attributes:
