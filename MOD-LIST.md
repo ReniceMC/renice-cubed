@@ -55,7 +55,7 @@
   <tr><td><a href="https://modrinth.com/mod/mOgUt4GM">Mod Menu</a><br>&nbsp;</td><td><a href="https://modrinth.com/organization/terraformers">Terraformers</a><br>&nbsp;</td><td align="center">✅<br>&nbsp;</td></tr>
   <tr><td><a href="https://modrinth.com/mod/ZP7xHXtw">Remove Reloading Screen</a><br>&nbsp;</td><td><a href="https://modrinth.com/user/dima_dencep">dima_dencep</a><br>&nbsp;</td><td align="center">✅<br>&nbsp;</td></tr>
   <tr><td><a href="https://modrinth.com/mod/Bh37bMuy">Reese's Sodium Options</a><br>&nbsp;</td><td><a href="https://modrinth.com/user/FlashyReese">FlashyReese</a><br>&nbsp;</td><td align="center">✅<br>&nbsp;</td></tr>
-  <tr><td><a href="https://modrinth.com/mod/9eGKb6K1">Simple Voice Chat</a><br>&nbsp;</td><td><a href="https://modrinth.com/user/henkelmax">Max Henkel</a><br>&nbsp;</td><td align="center">✅<br>&nbsp;</td></tr>
+  <tr><td><a href="https://modrinth.com/mod/9eGKb6K1">Simple Voice Chat</a><br>&nbsp;</td><td><a href="https://modrinth.com/user/henkelmax">henkelmax</a><br>&nbsp;</td><td align="center">✅<br>&nbsp;</td></tr>
   <tr><td><a href="https://modrinth.com/mod/t5wuYk45">Tweakeroo</a><br>&nbsp;</td><td><a href="https://modrinth.com/user/masa">masa</a>, <a href="https://modrinth.com/user/sakura-ryoko">sakura-ryoko</a><br>&nbsp;</td><td align="center">✅<br>&nbsp;</td></tr>
 </table>
 
