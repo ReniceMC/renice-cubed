@@ -9,7 +9,7 @@ body:
       value: |
         Thanks for reporting a problem with Renice³.
 
-        Check if [the issue already exists](https://github.com/wechirok/renice-cubed/issues) before opening a new one:
+        Check if [the issue already exists](https://github.com/wechirok/renice-cubed/issues) before opening a new one.
 
         Include enough information to reproduce or understand the problem.
 
