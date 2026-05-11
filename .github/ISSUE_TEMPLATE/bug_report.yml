@@ -1,0 +1,171 @@
+name: Bug Report
+description: Report a problem with Renice³
+title: "[Bug]: "
+labels: ["bug", "triage"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for reporting a problem with Renice³.
+
+        Before submitting:
+        - Check if the issue already exists.
+        - Test the latest available version of the modpack if possible.
+        - Do not remove required fields. Issues without enough information may be closed.
+
+  - type: checkboxes
+    id: existing-issue
+    attributes:
+      label: Existing issue check
+      options:
+        - label: I have searched the existing issues and did not find a duplicate.
+          required: true
+
+  - type: input
+    id: modpack-version
+    attributes:
+      label: Modpack version
+      description: Example: 1.0-alpha
+      placeholder: "1.0-alpha"
+    validations:
+      required: true
+
+  - type: input
+    id: minecraft-version
+    attributes:
+      label: Minecraft version
+      description: Example: 1.21.6
+      placeholder: "1.21.6"
+    validations:
+      required: true
+
+  - type: dropdown
+    id: launcher
+    attributes:
+      label: Launcher
+      description: Which launcher are you using?
+      options:
+        - Modrinth App
+        - CurseForge App
+        - Prism Launcher
+        - MultiMC
+        - ATLauncher
+        - Official Minecraft Launcher
+        - Other
+    validations:
+      required: true
+
+  - type: input
+    id: launcher-version
+    attributes:
+      label: Launcher version
+      description: If known, write the launcher version.
+      placeholder: "Example: Prism Launcher 9.2"
+    validations:
+      required: false
+
+  - type: dropdown
+    id: platform
+    attributes:
+      label: Platform
+      options:
+        - Windows
+        - macOS
+        - Linux
+        - Steam Deck / Linux handheld
+        - Other
+    validations:
+      required: true
+
+  - type: input
+    id: java-version
+    attributes:
+      label: Java version
+      description: If known. Example: Java 21
+      placeholder: "Java 21"
+    validations:
+      required: false
+
+  - type: dropdown
+    id: world-type
+    attributes:
+      label: Where does the problem happen?
+      options:
+        - Singleplayer
+        - Multiplayer server
+        - Both
+        - Cannot reach main menu
+    validations:
+      required: true
+
+  - type: textarea
+    id: problem-description
+    attributes:
+      label: Problem description
+      description: Describe what happened.
+      placeholder: "The game crashes when..."
+    validations:
+      required: true
+
+  - type: textarea
+    id: expected-behavior
+    attributes:
+      label: Expected behavior
+      description: What did you expect to happen instead?
+      placeholder: "The game should..."
+    validations:
+      required: true
+
+  - type: textarea
+    id: steps
+    attributes:
+      label: Steps to reproduce
+      description: Write exact steps so the issue can be tested.
+      placeholder: |
+        1. Open the launcher
+        2. Start Renice³
+        3. Join a world/server
+        4. ...
+    validations:
+      required: true
+
+  - type: textarea
+    id: logs
+    attributes:
+      label: Logs or crash report
+      description: Paste latest.log, crash report, or a link to it. Use mclo.gs, GitHub Gist, Pastebin, or attach the file.
+      placeholder: "Paste logs here or add a link..."
+      render: shell
+    validations:
+      required: true
+
+  - type: textarea
+    id: modifications
+    attributes:
+      label: Modified instance
+      description: Did you add, remove, or update any mods, shaders, resource packs, or configs?
+      placeholder: |
+        - Added mods:
+        - Removed mods:
+        - Shaders/resource packs:
+        - Config changes:
+    validations:
+      required: true
+
+  - type: textarea
+    id: screenshots
+    attributes:
+      label: Screenshots or video
+      description: Add screenshots or a short video if it helps explain the issue.
+    validations:
+      required: false
+
+  - type: checkboxes
+    id: confirmation
+    attributes:
+      label: Confirmation
+      options:
+        - label: I am using Renice³ and not a heavily modified custom instance.
+          required: true
+        - label: I included the modpack version, launcher, Minecraft version, and logs.
+          required: true
