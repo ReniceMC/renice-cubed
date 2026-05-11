@@ -15,4 +15,3 @@ The pack is designed to improve the vanilla mc experience without turning it int
 
 [![MODRINTH](https://img.shields.io/badge/MODRINTH-00AF5C?style=for-the-badge&logo=modrinth&logoColor=white&labelColor=000000)](https://modrinth.com/modpack/renice-cubed)
 [![CURSEFORGE](https://img.shields.io/badge/CURSEFORGE-F16436?style=for-the-badge&logo=curseforge&logoColor=white&labelColor=000000)](https://www.curseforge.com/minecraft/modpacks/renice-cubed)
-[![GITHUB RELEASES](https://img.shields.io/badge/GITHUB-RELEASES-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=000000)](https://github.com/Wechirok/Renice-Cubed/releases)
