@@ -14,10 +14,7 @@
   <tr><td><a href="https://modrinth.com/mod/EsAfCjCV">AppleSkin</a><br>&nbsp;</td><td align="center">✅<br>&nbsp;</td></tr>
   <tr><td><a href="https://modrinth.com/mod/kqJFAPU9">Better Mount HUD</a><br>&nbsp;</td><td align="center">✅<br>&nbsp;</td></tr>
   <tr><td><a href="https://modrinth.com/mod/n6PXGAoM">Better Statistics Screen</a><br>&nbsp;</td><td align="center">✅<br>&nbsp;</td></tr>
-  <tr><td><a href="https://modrinth.com/mod/Wb5oqrBJ">Chat Heads</a><br>&nbsp;</td><td align="center">✅<br>&nbsp;</td></tr>
   <tr><td><a href="https://modrinth.com/mod/DMu0oBKf">Crafting Tweaks</a><br>&nbsp;</td><td align="center">✅<br>&nbsp;</td></tr>
-  <tr><td><a href="https://modrinth.com/mod/ETlrkaYF">Cubes Without Borders</a><br>&nbsp;</td><td align="center">✅<br>&nbsp;</td></tr>
-  <tr><td><a href="https://modrinth.com/mod/3qsfQtE9">Fabrishot</a><br>&nbsp;</td><td align="center">✅<br>&nbsp;</td></tr>
   <tr><td><a href="https://modrinth.com/mod/aEK1KhsC">Full Brightness Toggle</a><br>&nbsp;</td><td align="center">✅<br>&nbsp;</td></tr>
   <tr><td><a href="https://modrinth.com/mod/Kp2uclYl">Inventory HUD +</a><br>&nbsp;</td><td align="center">✅<br>&nbsp;</td></tr>
   <tr><td><a href="https://modrinth.com/mod/nvQzSEkH">Jade</a><br>&nbsp;</td><td align="center">✅<br>&nbsp;</td></tr>
@@ -25,7 +22,6 @@
   <tr><td><a href="https://modrinth.com/mod/MKwHPQ55">Just Enough Serverless Recipes</a><br>&nbsp;</td><td align="center">✅<br>&nbsp;</td></tr>
   <tr><td><a href="https://modrinth.com/mod/8qkXwOnk">More Chat History</a><br>&nbsp;</td><td align="center">✅<br>&nbsp;</td></tr>
   <tr><td><a href="https://modrinth.com/mod/qQyHxfxd">No Chat Reports</a><br>&nbsp;</td><td align="center">✅<br>&nbsp;</td></tr>
-  <tr><td><a href="https://modrinth.com/mod/9eGKb6K1">Simple Voice Chat</a><br>&nbsp;</td><td align="center">✅<br>&nbsp;</td></tr>
   <tr><td><a href="https://modrinth.com/mod/x02cBj9Y">Status Effect Bars</a><br>&nbsp;</td><td align="center">✅<br>&nbsp;</td></tr>
   <tr><td><a href="https://modrinth.com/mod/1bokaNcj">Xaero's Minimap</a><br>&nbsp;</td><td align="center">✅<br>&nbsp;</td></tr>
   <tr><td><a href="https://modrinth.com/mod/NcUtCpym">Xaero's World Map</a><br>&nbsp;</td><td align="center">✅<br>&nbsp;</td></tr>
@@ -46,6 +42,8 @@
   </tr>
   <tr><td><a href="https://modrinth.com/mod/kzwxhsjp">Accurate Block Placement</a><br>&nbsp;</td><td align="center">✅<br>&nbsp;</td></tr>
   <tr><td><a href="https://modrinth.com/mod/jlNms3Jp">Config Manager</a><br>&nbsp;</td><td align="center">✅<br>&nbsp;</td></tr>
+  <tr><td><a href="https://modrinth.com/mod/ETlrkaYF">Cubes Without Borders</a><br>&nbsp;</td><td align="center">✅<br>&nbsp;</td></tr>
+  <tr><td><a href="https://modrinth.com/mod/3qsfQtE9">Fabrishot</a><br>&nbsp;</td><td align="center">✅<br>&nbsp;</td></tr>
   <tr><td><a href="https://modrinth.com/mod/uLbm7CG6">Language Reload</a><br>&nbsp;</td><td align="center">✅<br>&nbsp;</td></tr>
   <tr><td><a href="https://modrinth.com/mod/bEpr0Arc">Litematica</a><br>&nbsp;</td><td align="center">✅<br>&nbsp;</td></tr>
   <tr><td><a href="https://modrinth.com/mod/UMxybHE8">MiniHUD</a><br>&nbsp;</td><td align="center">✅<br>&nbsp;</td></tr>
@@ -53,6 +51,7 @@
   <tr><td><a href="https://modrinth.com/mod/mOgUt4GM">Mod Menu</a><br>&nbsp;</td><td align="center">✅<br>&nbsp;</td></tr>
   <tr><td><a href="https://modrinth.com/mod/ZP7xHXtw">Remove Reloading Screen</a><br>&nbsp;</td><td align="center">✅<br>&nbsp;</td></tr>
   <tr><td><a href="https://modrinth.com/mod/Bh37bMuy">Reese's Sodium Options</a><br>&nbsp;</td><td align="center">✅<br>&nbsp;</td></tr>
+  <tr><td><a href="https://modrinth.com/mod/9eGKb6K1">Simple Voice Chat</a><br>&nbsp;</td><td align="center">✅<br>&nbsp;</td></tr>
   <tr><td><a href="https://modrinth.com/mod/t5wuYk45">Tweakeroo</a><br>&nbsp;</td><td align="center">✅<br>&nbsp;</td></tr>
 </table>
 
@@ -94,6 +93,7 @@
   </tr>
   <tr><td><a href="https://modrinth.com/mod/zV5r3pPn">3d-Skin-Layers</a><br>&nbsp;</td><td align="center">✅<br>&nbsp;</td></tr>
   <tr><td><a href="https://modrinth.com/mod/xEyZuswh">Animatica</a><br>&nbsp;</td><td align="center">✅<br>&nbsp;</td></tr>
+  <tr><td><a href="https://modrinth.com/mod/Wb5oqrBJ">Chat Heads</a><br>&nbsp;</td><td align="center">✅<br>&nbsp;</td></tr>
   <tr><td><a href="https://modrinth.com/mod/1IjD5062">Continuity</a><br>&nbsp;</td><td align="center">✅<br>&nbsp;</td></tr>
   <tr><td><a href="https://modrinth.com/mod/4I1XuqiY">Entity Model Features</a><br>&nbsp;</td><td align="center">✅<br>&nbsp;</td></tr>
   <tr><td><a href="https://modrinth.com/mod/BVzZfTc1">Entity Texture Features</a><br>&nbsp;</td><td align="center">✅<br>&nbsp;</td></tr>
