@@ -86,24 +86,3 @@ body:
       render: shell
     validations:
       required: true
-
-  - type: textarea
-    id: modifications
-    attributes:
-      label: Modified instance
-      description: Did you add, remove, or update any mods, shaders, resource packs, or configs?
-      placeholder: |
-        - Added mods:
-        - Removed mods:
-        - Shaders/resource packs:
-        - Config changes:
-    validations:
-      required: false
-
-  - type: textarea
-    id: screenshots
-    attributes:
-      label: Screenshots or video
-      description: Add screenshots or a short video if it helps explain the issue.
-    validations:
-      required: false
