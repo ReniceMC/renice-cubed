@@ -9,10 +9,9 @@ body:
       value: |
         Thanks for reporting a problem with Renice³.
 
-        Before submitting:
-        - Check if the issue already exists.
-        - Test the latest available version of the modpack if possible.
-        - Do not remove required fields. Issues without enough information may be closed.
+        Check if the [issue already exists](https://github.com/wechirok/renice-cubed/issues) before opening a new one:
+
+        Include enough information to reproduce or understand the problem.
 
   - type: checkboxes
     id: existing-issue
