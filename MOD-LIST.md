@@ -134,7 +134,7 @@
   <tr><td><a href="https://modrinth.com/mod/Ha28R6CL">Fabric Language Kotlin</a><br>&nbsp;</td><td><a href="https://modrinth.com/user/modmuss50">modmuss50</a><br>&nbsp;</td><td align="center">✅<br>&nbsp;</td></tr>
   <tr><td><a href="https://modrinth.com/mod/ohNO6lps">Forge Config API Port</a><br>&nbsp;</td><td><a href="https://modrinth.com/user/Fuzs">Fuzs</a><br>&nbsp;</td><td align="center">✅<br>&nbsp;</td></tr>
   <tr><td><a href="https://modrinth.com/mod/hYykXjDp">Fzzy Config</a><br>&nbsp;</td><td><a href="https://modrinth.com/user/fzzyhmstrs">fzzyhmstrs</a><br>&nbsp;</td><td align="center">✅<br>&nbsp;</td></tr>
-  <tr><td><a href="https://modrinth.com/mod/GcWjdA9I">MaLiLib</a><br>&nbsp;</td><td><a href="https://modrinth.com/user/masa">masa</a><br>&nbsp;</td><td align="center">✅<br>&nbsp;</td></tr>
+  <tr><td><a href="https://modrinth.com/mod/GcWjdA9I">MaLiLib</a><br>&nbsp;</td><td><a href="https://modrinth.com/user/masa">masa</a>, <a href="https://modrinth.com/user/sakura-ryoko">sakura-ryoko</a><br>&nbsp;</td><td align="center">✅<br>&nbsp;</td></tr>
   <tr><td><a href="https://modrinth.com/mod/eXts2L7r">Placeholder API</a><br>&nbsp;</td><td><a href="https://modrinth.com/user/Patbox">Patbox</a><br>&nbsp;</td><td align="center">✅<br>&nbsp;</td></tr>
   <tr><td><a href="https://modrinth.com/mod/3IuO68q1">Puzzle</a><br>&nbsp;</td><td><a href="https://modrinth.com/user/Motschen">Motschen</a><br>&nbsp;</td><td align="center">✅<br>&nbsp;</td></tr>
   <tr><td><a href="https://modrinth.com/mod/Eldc1g37">TCDCommons API</a><br>&nbsp;</td><td><a href="https://modrinth.com/user/TheCSDev">TheCSDev</a><br>&nbsp;</td><td align="center">✅<br>&nbsp;</td></tr>
