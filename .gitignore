@@ -1,16 +1,20 @@
-# Binaries and exports
+# Binaries
 *.jar
 *.zip
 *.mrpack
 
-# Mod folders everywhere
+# Minecraft mods
 mods/
 **/mods/
 **/overrides/mods/
 
-# Optional local resource packs
+# Resource packs and shader packs
 resourcepacks/
 **/resourcepacks/
+server-resource-packs/
+**/server-resource-packs/
+shaderpacks/
+**/shaderpacks/
 
 # Generated/runtime data
 logs/
@@ -25,12 +29,13 @@ libraries/
 **/libraries/
 downloads/
 **/downloads/
-server-resource-packs/
-**/server-resource-packs/
 
-# Ignore all override configs by default
+# Generated configs
+config/*
 **/overrides/config/*
 
-# Keep only modpack default configs
+# Keep default configs
+!config/modpack_defaults/
+!config/modpack_defaults/**
 !**/overrides/config/modpack_defaults/
 !**/overrides/config/modpack_defaults/**
