@@ -1,6 +1,6 @@
 <img align="left" src="https://www.dropbox.com/scl/fi/3mtve50hj38hpxpd5lktj/logo-cubed.png?rlkey=obfotvo8jijt2icmsxtmfgucx&st=j9nrqrax&raw=1" width="160" alt="Renice Cubed logo">
 
-# Renice Cubed
+<p><strong><font size="6">Renice Cubed</font></strong></p>
 
 The pack is designed to improve the vanilla mc experience without turning it into a content-heavy gameplay overhaul. It is intended for players who want a smoother, clearer, and more configurable client while keeping compatibility with normal worlds and most servers.
 
