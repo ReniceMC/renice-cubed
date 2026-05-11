@@ -1,0 +1,36 @@
+# Binaries and exports
+*.jar
+*.zip
+*.mrpack
+
+# Mod folders everywhere
+mods/
+**/mods/
+**/overrides/mods/
+
+# Optional local resource packs
+resourcepacks/
+**/resourcepacks/
+
+# Generated/runtime data
+logs/
+**/logs/
+crash-reports/
+**/crash-reports/
+saves/
+**/saves/
+screenshots/
+**/screenshots/
+libraries/
+**/libraries/
+downloads/
+**/downloads/
+server-resource-packs/
+**/server-resource-packs/
+
+# Ignore all override configs by default
+**/overrides/config/*
+
+# Keep only modpack default configs
+!**/overrides/config/modpack_defaults/
+!**/overrides/config/modpack_defaults/**
