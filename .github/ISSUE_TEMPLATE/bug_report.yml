@@ -48,6 +48,7 @@ body:
       label: Problem description
       description: Describe what happened.
       placeholder: "The game crashes when..."
+      render: text
     validations:
       required: true
 
