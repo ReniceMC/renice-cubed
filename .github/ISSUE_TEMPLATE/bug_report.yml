@@ -43,13 +43,10 @@ body:
       label: Launcher
       description: Which launcher are you using?
       options:
+        - Prism Launcher
         - Modrinth App
         - CurseForge App
-        - Prism Launcher
-        - MultiMC
-        - ATLauncher
-        - Official Minecraft Launcher
-        - Other
+        - Other launcher
     validations:
       required: true
 
