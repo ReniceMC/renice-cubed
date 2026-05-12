@@ -1,23 +1,30 @@
+BSD 3-Clause License
+
 Copyright 2026 Wechirok and Renice Cubed contributors
 
-SPDX-License-Identifier: CC-BY-NC-SA-4.0
+Redistribution and use in source and binary forms, with or without
+modification, are permitted provided that the following conditions are met:
 
-Redistribution and use of this modpack's original materials, with or without modification, are permitted for non-commercial purposes only, provided that the following conditions are met:
+1. Redistributions of source code must retain the above copyright notice,
+   this list of conditions and the following disclaimer.
 
-1. Redistributions must retain the above copyright notice, this license notice, and a reference to the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.
+2. Redistributions in binary form must reproduce the above copyright notice,
+   this list of conditions and the following disclaimer in the documentation
+   and/or other materials provided with the distribution.
 
-2. Redistributions of modified materials must clearly indicate that changes were made.
+3. Neither the name of Renice Cubed nor the names of its copyright holder,
+   contributors, or affiliated project members may be used to endorse or
+   promote products derived from this software without specific prior written
+   permission.
 
-3. Modified versions must be distributed under the same license: Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International.
-
-4. Commercial use is not permitted under this public license. Commercial use may be granted separately by written permission from the copyright holder.
-
-5. Voluntary donations are permitted, provided that they do not grant exclusive access, commercial rights, sublicensing rights, or permission to redistribute third-party content.
-
-6. This license applies only to this modpack's original materials published on Modrinth and CurseForge, including documentation, configuration files, metadata, and files created specifically for this modpack.
-
-7. This license does not apply to third-party mods, libraries, APIs, resource packs, shaders, tools, or external projects referenced by this modpack. Those projects remain under their own respective licenses and belong to their respective authors.
-
-8. Neither the name Renice Cubed nor the name of the copyright holder may be used to endorse or promote derivative projects without specific prior written permission.
-
-Disclaimer and limitation of liability are governed by Section 5 of the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License. This modpack's original materials are provided as-is and as-available, without warranties of any kind, and the copyright holder is not liable for losses or damages arising from their use.
+THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS “AS IS”
+AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE
+IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE
+ARE DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT HOLDER OR CONTRIBUTORS BE
+LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR
+CONSEQUENTIAL DAMAGES, INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF
+SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS
+INTERRUPTION HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN
+CONTRACT, STRICT LIABILITY, OR TORT, INCLUDING NEGLIGENCE OR OTHERWISE,
+ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE
+POSSIBILITY OF SUCH DAMAGE.
