@@ -13,7 +13,6 @@
     <td><br>&nbsp;</td>
     <td align="center"><strong>26.1.2</strong><br>&nbsp;</td>
   </tr>
-  <tr><td><a href="https://modrinth.com/mod/kzwxhsjp">Accurate Block Placement Reborn</a><br>&nbsp;</td><td><a href="https://modrinth.com/user/Kaddicus">Kaddicus</a>, <a href="https://modrinth.com/user/schwar">schwar</a><br>&nbsp;</td><td align="center">✅<br>&nbsp;</td></tr>
   <tr><td><a href="https://modrinth.com/mod/EsAfCjCV">AppleSkin</a><br>&nbsp;</td><td><a href="https://modrinth.com/user/squeek502">squeek502</a><br>&nbsp;</td><td align="center">✅<br>&nbsp;</td></tr>
   <tr><td><a href="https://modrinth.com/mod/kqJFAPU9">Better Mount HUD</a><br>&nbsp;</td><td><a href="https://modrinth.com/user/Lortseam">Lortseam</a><br>&nbsp;</td><td align="center">✅<br>&nbsp;</td></tr>
   <tr><td><a href="https://modrinth.com/mod/jlNms3Jp">Config Manager</a><br>&nbsp;</td><td><a href="https://modrinth.com/user/TheBossMagnus">TheBossMagnus</a><br>&nbsp;</td><td align="center">✅<br>&nbsp;</td></tr>
@@ -34,6 +33,7 @@
   <tr><td><a href="https://modrinth.com/mod/mOgUt4GM">Mod Menu</a><br>&nbsp;</td><td><a href="https://modrinth.com/organization/terraformers">Terraformers</a><br>&nbsp;</td><td align="center">✅<br>&nbsp;</td></tr>
   <tr><td><a href="https://modrinth.com/mod/8qkXwOnk">More Chat History</a><br>&nbsp;</td><td><a href="https://modrinth.com/user/JackFred">JackFred</a><br>&nbsp;</td><td align="center">✅<br>&nbsp;</td></tr>
   <tr><td><a href="https://modrinth.com/mod/qQyHxfxd">No Chat Reports</a><br>&nbsp;</td><td><a href="https://modrinth.com/user/Aizistral">Aizistral</a><br>&nbsp;</td><td align="center">✅<br>&nbsp;</td></tr>
+  <tr><td><a href="https://modrinth.com/mod/paginatedadvancements">Paginated Advancements & Custom Frames</a><br>&nbsp;</td><td><a href="https://modrinth.com/user/DaFuqs">DaFuqs</a><br>&nbsp;</td><td align="center">✅<br>&nbsp;</td></tr>
   <tr><td><a href="https://modrinth.com/mod/Bh37bMuy">Reese's Sodium Options</a><br>&nbsp;</td><td><a href="https://modrinth.com/user/FlashyReese">FlashyReese</a><br>&nbsp;</td><td align="center">✅<br>&nbsp;</td></tr>
   <tr><td><a href="https://modrinth.com/mod/ZP7xHXtw">Remove Reloading Screen</a><br>&nbsp;</td><td><a href="https://modrinth.com/user/dima_dencep">dima_dencep</a><br>&nbsp;</td><td align="center">✅<br>&nbsp;</td></tr>
   <tr><td><a href="https://modrinth.com/mod/9eGKb6K1">Simple Voice Chat</a><br>&nbsp;</td><td><a href="https://modrinth.com/user/henkelmax">henkelmax</a>, <a href="https://modrinth.com/user/BreadLoaf">BreadLoaf</a>, <a href="https://modrinth.com/user/Stridey">Stridey</a><br>&nbsp;</td><td align="center">✅<br>&nbsp;</td></tr>
