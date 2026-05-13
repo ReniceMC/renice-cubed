@@ -33,7 +33,6 @@
   <tr><td><a href="https://modrinth.com/mod/mOgUt4GM">Mod Menu</a><br>&nbsp;</td><td><a href="https://modrinth.com/organization/terraformers">Terraformers</a><br>&nbsp;</td><td align="center">✅<br>&nbsp;</td></tr>
   <tr><td><a href="https://modrinth.com/mod/8qkXwOnk">More Chat History</a><br>&nbsp;</td><td><a href="https://modrinth.com/user/JackFred">JackFred</a><br>&nbsp;</td><td align="center">✅<br>&nbsp;</td></tr>
   <tr><td><a href="https://modrinth.com/mod/qQyHxfxd">No Chat Reports</a><br>&nbsp;</td><td><a href="https://modrinth.com/user/Aizistral">Aizistral</a><br>&nbsp;</td><td align="center">✅<br>&nbsp;</td></tr>
-  <tr><td><a href="https://modrinth.com/mod/paginatedadvancements">Paginated Advancements & Custom Frames</a><br>&nbsp;</td><td><a href="https://modrinth.com/user/DaFuqs">DaFuqs</a><br>&nbsp;</td><td align="center">✅<br>&nbsp;</td></tr>
   <tr><td><a href="https://modrinth.com/mod/Bh37bMuy">Reese's Sodium Options</a><br>&nbsp;</td><td><a href="https://modrinth.com/user/FlashyReese">FlashyReese</a><br>&nbsp;</td><td align="center">✅<br>&nbsp;</td></tr>
   <tr><td><a href="https://modrinth.com/mod/ZP7xHXtw">Remove Reloading Screen</a><br>&nbsp;</td><td><a href="https://modrinth.com/user/dima_dencep">dima_dencep</a><br>&nbsp;</td><td align="center">✅<br>&nbsp;</td></tr>
   <tr><td><a href="https://modrinth.com/mod/9eGKb6K1">Simple Voice Chat</a><br>&nbsp;</td><td><a href="https://modrinth.com/user/henkelmax">henkelmax</a>, <a href="https://modrinth.com/user/BreadLoaf">BreadLoaf</a>, <a href="https://modrinth.com/user/Stridey">Stridey</a><br>&nbsp;</td><td align="center">✅<br>&nbsp;</td></tr>
@@ -68,6 +67,7 @@
   <tr><td><a href="https://modrinth.com/mod/yBW8D80W">LambDynamicLights</a><br>&nbsp;</td><td><a href="https://modrinth.com/user/LambdAurora">LambdAurora</a><br>&nbsp;</td><td align="center">✅<br>&nbsp;</td></tr>
   <tr><td><a href="https://modrinth.com/mod/qJDfP7WN">Main Menu Credits</a><br>&nbsp;</td><td><a href="https://modrinth.com/user/isxander">isXander</a><br>&nbsp;</td><td align="center">✅<br>&nbsp;</td></tr>
   <tr><td><a href="https://modrinth.com/mod/JuksLGBQ">OptiGUI</a><br>&nbsp;</td><td><a href="https://modrinth.com/user/opekope2">opekope2</a><br>&nbsp;</td><td align="center">✅<br>&nbsp;</td></tr>
+  <tr><td><a href="https://modrinth.com/mod/paginatedadvancements">Paginated Advancements & Custom Frames</a><br>&nbsp;</td><td><a href="https://modrinth.com/user/DaFuqs">DaFuqs</a><br>&nbsp;</td><td align="center">✅<br>&nbsp;</td></tr>
   <tr><td><a href="https://modrinth.com/mod/qyVF9oeo">Sound Physics Remastered</a><br>&nbsp;</td><td><a href="https://modrinth.com/user/henkelmax">henkelmax</a><br>&nbsp;</td><td align="center">✅<br>&nbsp;</td></tr>
 </table>
 
