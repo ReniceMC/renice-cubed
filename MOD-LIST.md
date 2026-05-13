@@ -6,7 +6,7 @@
   <tr>
     <th align="left" width="300">Mod<br>&nbsp;</th>
     <th align="left" width="220">Author<br>&nbsp;</th>
-    <th align="center" width="120">1.0<br>&nbsp;</th>
+    <th align="center" width="120">1.x.x<br>&nbsp;</th>
   </tr>
   <tr>
     <td><br>&nbsp;</td>
@@ -50,7 +50,7 @@
   <tr>
     <th align="left" width="300">Mod<br>&nbsp;</th>
     <th align="left" width="220">Author<br>&nbsp;</th>
-    <th align="center" width="120">1.0<br>&nbsp;</th>
+    <th align="center" width="120">1.x.x<br>&nbsp;</th>
   </tr>
   <tr>
     <td><br>&nbsp;</td>
@@ -77,7 +77,7 @@
   <tr>
     <th align="left" width="300">Mod<br>&nbsp;</th>
     <th align="left" width="220">Author<br>&nbsp;</th>
-    <th align="center" width="120">1.0<br>&nbsp;</th>
+    <th align="center" width="120">1.x.x<br>&nbsp;</th>
   </tr>
   <tr>
     <td><br>&nbsp;</td>
@@ -106,7 +106,7 @@
   <tr>
     <th align="left" width="300">Mod<br>&nbsp;</th>
     <th align="left" width="220">Author<br>&nbsp;</th>
-    <th align="center" width="120">1.0<br>&nbsp;</th>
+    <th align="center" width="120">1.x.x<br>&nbsp;</th>
   </tr>
   <tr>
     <td><br>&nbsp;</td>
