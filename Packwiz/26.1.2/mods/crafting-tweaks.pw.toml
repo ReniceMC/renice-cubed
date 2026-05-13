@@ -1,0 +1,13 @@
+name = "Crafting Tweaks"
+filename = "craftingtweaks-fabric-26.1.2-26.1.2.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/DMu0oBKf/versions/AdwpjRfn/craftingtweaks-fabric-26.1.2-26.1.2.1.jar"
+hash-format = "sha512"
+hash = "15bfc68ba545e742ecdad487f52bec4ef06af4f6253bfcba27eb2bebaa5f9324ef765ed1ca82423b70804604cfd715d221e31c2dcd67c1ae0506587219a2a994"
+
+[update]
+[update.modrinth]
+mod-id = "DMu0oBKf"
+version = "AdwpjRfn"
