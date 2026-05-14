@@ -1,14 +1,10 @@
-# Binaries
+*.exe
 *.jar
-*.zip
-*.mrpack
 
-# Minecraft mods
 mods/
 **/mods/
 **/overrides/mods/
 
-# Resource packs and shader packs
 resourcepacks/
 **/resourcepacks/
 server-resource-packs/
@@ -16,7 +12,6 @@ server-resource-packs/
 shaderpacks/
 **/shaderpacks/
 
-# Generated/runtime data
 logs/
 **/logs/
 crash-reports/
@@ -30,11 +25,9 @@ libraries/
 downloads/
 **/downloads/
 
-# Generated configs
 config/*
 **/overrides/config/*
 
-# Keep default configs
 !config/modpack_defaults/
 !config/modpack_defaults/**
 !**/overrides/config/modpack_defaults/
