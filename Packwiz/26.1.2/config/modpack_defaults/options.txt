@@ -18,6 +18,8 @@ skipMultiplayerWarning:true
 telemetryOptInExtra:false
 operatorItemsTab:true
 tutorialStep:none
+key_net.clayborn.accurateblockplacement.togglevanillaplacement:key.keyboard.grave.accent
+key_net.clayborn.accurateblockplacement.togglefastbreaking:key.keyboard.page.up
 key_key.quickActions:key.keyboard.f7
 key_key.saveToolbarActivator:key.keyboard.unknown
 key_key.dynamic_fps.toggle_forced:key.keyboard.unknown

@@ -4,7 +4,7 @@
     "top_right": [],
     "bottom_left": [
       {
-        "text": "Renice³ 1.0.0 Alpha",
+        "text": "Renice³ 1.1.0 Beta",
         "color": "white",
         "underlined": false,
         "click_event": {

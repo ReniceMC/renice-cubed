@@ -876,7 +876,7 @@
     "tweakF3Cursor": false,
     "tweakFakeSneaking": false,
     "tweakFakeSneakPlacement": false,
-    "tweakFastBlockPlacement": true,
+    "tweakFastBlockPlacement": false,
     "tweakFastLeftClick": false,
     "tweakFastRightClick": false,
     "§6tweakFillCloneLimit§r": false,
@@ -1022,7 +1022,7 @@
       "keys": ""
     },
     "tweakFastBlockPlacement": {
-      "keys": "GRAVE_ACCENT"
+      "keys": ""
     },
     "tweakFastLeftClick": {
       "keys": ""
