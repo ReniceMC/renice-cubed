@@ -79,7 +79,7 @@ key_gui.xaero_toggle_dimension:key.keyboard.unknown
 key_zoomify.key.zoom.secondary:key.keyboard.f6
 key_iris.keybind.reload:key.keyboard.r
 key_iris.keybind.toggleShaders:key.keyboard.k
-key_iris.keybind.shaderPackSelection:key.keyboard.o
+key_iris.keybind.shaderPackSelection:key.keyboard.page.down
 key_iris.keybind.wireframe:key.keyboard.unknown
 resourcePacks:["vanilla","continuity:default","continuity:glass_pane_culling_fix"]
 incompatibleResourcePacks:[]

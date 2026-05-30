@@ -29,10 +29,6 @@ file = "config/modpack_defaults/config/fabrishot.properties"
 hash = "0a4beba5a34e62cb9c342afe43f096a2d5a3f33637e8ca4147f0e81e82655380"
 
 [[files]]
-file = "config/modpack_defaults/config/fastquit.toml"
-hash = "17225e085e6759210cec7e829e00c8c90f9c5d38714835cb5da9c98398842f7d"
-
-[[files]]
 file = "config/modpack_defaults/config/inventoryhud.json"
 hash = "830e355e78e45bc5bb080a688967bee038bb650d800aa3c5b97c16e51edc62aa"
 
@@ -42,7 +38,7 @@ hash = "3f5878535aacbfea79ae6da2f9142963f5662af3141692f0ba945767c9096ce5"
 
 [[files]]
 file = "config/modpack_defaults/config/isxander-main-menu-credits.json"
-hash = "2e1dd7fad051b6ec2ef1a238bfab509ff2f45e4b15a9deb3930cc1677fdc2866"
+hash = "9cbc90d753bef9374ee970f9c5e4a0ee0ecc25e5700ee654357bea5a8ed9b1da"
 
 [[files]]
 file = "config/modpack_defaults/config/litematica.json"
@@ -90,7 +86,7 @@ hash = "ada7ab7e75e41608bad88c4f3857a682d784ed17d8bc13e993a18baefb3cec01"
 
 [[files]]
 file = "config/modpack_defaults/options.txt"
-hash = "66eb5e924adcf6bee04439750d994022be52b0ca9db2d8ede30b752820498b9c"
+hash = "6566af8e4255c06d53ff6fa3e068adae824683cf17d13f8a63c7ac308184dc57"
 
 [[files]]
 file = "mods/3dskinlayers.pw.toml"
@@ -264,7 +260,7 @@ metafile = true
 
 [[files]]
 file = "mods/ixeris.pw.toml"
-hash = "fcb71635139025f0fec6588be1ee0270be391a145edecdcbc2eb199aca076bb8"
+hash = "4dad077c4f11e760a779afcfc6d70faaee814978367a27e016d5620279241902"
 metafile = true
 
 [[files]]
@@ -299,7 +295,7 @@ metafile = true
 
 [[files]]
 file = "mods/lithium.pw.toml"
-hash = "c4f5f4038e66b1ce6a57898de54878490d1240712c6a0db4371db3914760e6de"
+hash = "f70d8ec7c871ad284b1e155c7a8a8461edc00c7b1ddecec0c10f212f77911376"
 metafile = true
 
 [[files]]
