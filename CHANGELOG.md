@@ -6,6 +6,20 @@ Check out the [Updates and versions](https://renice-cubed.gitbook.io/wiki/update
 
 ## 26.1.2
 
+### 1.1.1-beta
+
+2026-05-30
+
+* Iris shader pack selection has been rebound to `Page Down`.
+* Unnecessary FastQuit metadata has been removed.
+
+### Updated
+
+**MODS**
+
+* Ixeris
+* Lithium
+
 ### 1.1.0-beta
 
 2026-05-28
