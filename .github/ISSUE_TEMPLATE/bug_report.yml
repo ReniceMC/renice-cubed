@@ -9,7 +9,7 @@ body:
       value: |
         Thanks for reporting a problem with Renice³.
 
-        Check if [the issue already exists](https://github.com/wechirok/renice-cubed/issues) before opening a new one.
+        Check if [the issue already exists](https://github.com/ReniceMC/renice-cubed/issues) before opening a new one.
 
   - type: input
     id: modpack-version
