@@ -55,6 +55,12 @@ Check out the [Updates and versions](https://renice-cubed.gitbook.io/wiki/update
 * The Accurate Placement toggle now uses the same key that was previously used for Tweakeroo's Fast Block Placement.
 * Fast Breaking has been bound to `Page Up`.
 
+### Added
+
+**MODS**
+
+* Accurate Block Placement Reborn
+
 ### Updated
 
 **MODS**
@@ -75,12 +81,6 @@ Check out the [Updates and versions](https://renice-cubed.gitbook.io/wiki/update
 * Tweakeroo
 * Xaero's Minimap
 * Xaero's World Map
-
-### Added
-
-**MODS**
-
-* Accurate Block Placement Reborn
 
 ### 1.0.0-alpha
 
