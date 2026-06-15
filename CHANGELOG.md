@@ -5,6 +5,31 @@ Check out the [Updates and versions](https://renice-cubed.gitbook.io/wiki/update
 # (1.x.x)
 
 ## 26.1.2
+### 1.1.2-beta
+
+2026-06-15
+
+* Fabric Loader has been updated to `0.19.3`.
+
+### Updated
+
+**MODS**
+
+* Balm
+* Better Statistics Screen
+* Collective
+* Cubes Without Borders
+* e4mc
+* Fabric API
+* Fabric Language Kotlin
+* Forge Config API Port
+* Ixeris
+* Lithium
+* More Culling
+* TCDCommons API
+* Xaero's Minimap
+* Xaero's World Map
+* YetAnotherConfigLib
 
 ### 1.1.1-beta
 
