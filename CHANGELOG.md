@@ -9,7 +9,7 @@ Check out the [Updates and versions](https://renice-cubed.gitbook.io/wiki/update
 
 2026-06-15
 
-* Fabric Loader has been updated to `0.19.3`.
+* Fabric Loader has been updated to 0.19.3.
 
 ### Updated
 
