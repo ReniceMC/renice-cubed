@@ -1,5 +1,3 @@
-BSD 3-Clause License
-
 Copyright 2026 Renice Cubed contributors
 
 Redistribution and use in source and binary forms, with or without
