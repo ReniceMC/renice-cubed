@@ -5,6 +5,48 @@ Check out the [Updates and versions](https://renice-cubed.gitbook.io/wiki/update
 # (1.x.x)
 
 ## 26.1.2
+
+### 1.1.3-beta
+
+2026-07-04
+
+### Updated
+
+**MODS**
+
+* 3D Skin Layers
+* Accurate Block Placement Reborn
+* AppleSkin
+* Balm
+* Chat Heads
+* Collective
+* Config Manager
+* Crafting Tweaks
+* Crash Assistant
+* Cubes Without Borders
+* e4mc
+* Entity Culling
+* Fabric API
+* ImmediatelyFast
+* Ixeris
+* Jade
+* Just Enough Items
+* LambDynamicLights
+* Language Reload
+* Litematica
+* Lithium
+* MaLiLib
+* MiniHUD
+* ModernFix-mVUS
+* Reese's Sodium Options
+* Remove Reloading Screen
+* Simple Voice Chat
+* Tweakeroo
+* Xaero's Minimap
+* Xaero's World Map
+* YetAnotherConfigLib
+* Zoomify
+
 ### 1.1.2-beta
 
 2026-06-15
