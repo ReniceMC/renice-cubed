@@ -6,6 +6,12 @@ Check out the [Updates and versions](https://renice-cubed.gitbook.io/wiki/update
 
 ## 26.2
 
+### 2.0.1-alpha
+
+2026-07-27
+
+* Leftover Fabrishot config has been removed.
+
 ### 2.0.0-alpha
 
 2026-07-27
