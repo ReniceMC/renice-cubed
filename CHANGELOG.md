@@ -10,7 +10,7 @@ Check out the [Updates and versions](https://renice-cubed.gitbook.io/wiki/update
 
 2026-07-27
 
-* Leftover Fabrishot config has been removed.
+- Leftover Fabrishot and FastQuit configs have been removed.
 
 ### 2.0.0-alpha
 
