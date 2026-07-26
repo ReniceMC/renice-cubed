@@ -25,10 +25,6 @@ file = "config/modpack_defaults/config/debugify.json"
 hash = "dd1807598691d791d5881d8e5fac3fb409c431fc4416ce43059a40fb53858db8"
 
 [[files]]
-file = "config/modpack_defaults/config/fastquit.toml"
-hash = "17225e085e6759210cec7e829e00c8c90f9c5d38714835cb5da9c98398842f7d"
-
-[[files]]
 file = "config/modpack_defaults/config/inventoryhud.json"
 hash = "830e355e78e45bc5bb080a688967bee038bb650d800aa3c5b97c16e51edc62aa"
 
