@@ -6,6 +6,39 @@ Check out the [Updates and versions](https://renice-cubed.gitbook.io/wiki/update
 
 ## 26.1.2
 
+### 1.1.4-release
+
+2026-07-26
+
+## *Beta -> Release*
+
+* Renice Cubed has moved from beta to its first stable release!
+
+### Updated
+
+**MODS**
+
+* Animatica Refabricated
+* Balm
+* Better Block Entities
+* Chat Heads
+* Crash Assistant
+* Fabric API
+* Fabric Language Kotlin
+* Iris Shaders
+* Ixeris
+* Just Enough Items
+* Just Enough Serverless Recipes
+* Litematica
+* MaLiLib
+* Mod Menu
+* Reese's Sodium Options
+* Simple Voice Chat
+* Sodium
+* Sodium Extra
+* Xaero's Minimap
+* Xaero's World Map
+
 ### 1.1.3-beta
 
 2026-07-04
