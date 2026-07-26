@@ -1,0 +1,13 @@
+name = "Crafting Tweaks"
+filename = "craftingtweaks-fabric-26.2-26.2.0.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/DMu0oBKf/versions/L8AL817i/craftingtweaks-fabric-26.2-26.2.0.2.jar"
+hash-format = "sha512"
+hash = "80fe133b3cb2459471eb037f74d11b3b7ac332da0357e9dc634b28a57bd94ae7ec1e6fcfd4a4810564e489a7428d41b7dadf50883310e16dba62edfad0c6d61a"
+
+[update]
+[update.modrinth]
+mod-id = "DMu0oBKf"
+version = "L8AL817i"
