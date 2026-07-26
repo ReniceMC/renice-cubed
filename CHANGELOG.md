@@ -2,6 +2,86 @@
 
 Check out the [Updates and versions](https://renice-cubed.gitbook.io/wiki/updates-and-versions) page on our wiki!
 
+# (2.x.x)
+
+## 26.2
+
+### 2.0.0-alpha
+
+2026-07-27
+
+* Renice Cubed has been updated from mc 26.1.2 to 26.2.
+
+### Updated
+
+**MODS**
+
+* 3D Skin Layers
+* Animatica Refabricated
+* AppleSkin
+* BadOptimizations
+* Balm
+* Better Block Entities
+* Better Mount HUD
+* Better Statistics Screen
+* Cloth Config API
+* Clumps
+* Collective
+* Continuity
+* Crafting Tweaks
+* Crash Assistant
+* Cubes Without Borders
+* Debugify
+* Dynamic FPS
+* Entity Culling
+* Entity Model Features
+* Entity Texture Features
+* Fabric API
+* Fabric Language Kotlin
+* Forge Config API Port
+* Full Brightness Toggle
+* Fzzy Config
+* ImmediatelyFast
+* InventoryHUD+
+* Iris Shaders
+* Ixeris
+* Jade
+* Just Enough Items
+* Just Enough Serverless Recipes
+* LambDynamicLights
+* Language Reload
+* Litematica
+* Lithium
+* Main Menu Credits
+* MaLiLib
+* MiniHUD
+* Mod Menu
+* More Culling
+* No Chat Reports
+* OptiGUI
+* Paginated Advancements
+* Puzzle
+* Reese's Sodium Options
+* Remove Reloading Screen
+* Simple Voice Chat
+* Sodium
+* Sodium Extra
+* Sound Physics Remastered
+* Status Effect Bars
+* TCDCommons API
+* Text Placeholder API
+* Tweakeroo
+* Xaero's Minimap
+* Xaero's World Map
+* YetAnotherConfigLib
+* Zoomify
+
+### Removed
+
+**MODS**
+
+* Fabrishot
+
 # (1.x.x)
 
 ## 26.1.2
