@@ -2,7 +2,7 @@
 
 <p><strong><font size="6">Renice³</font></strong></p>
 
-Designed to improve the vanilla mc experience without turning it into a content-heavy gameplay overhaul. It is intended for players who want a smoother, clearer, and more configurable client while keeping compatibility with normal worlds and most servers.
+Designed to improve the vanilla mc experience without turning it into a content-heavy gameplay overhaul. It is intended for players who want a smoother, clearer, and more configurable client while keeping compatibility with most worlds and servers.
 
 <br clear="left"/>
 
