@@ -1,13 +1,13 @@
 name = "Just Enough Serverless Recipes"
-filename = "JustEnoughServerlessRecipes-fabric-26.2-1.2.2.jar"
+filename = "JustEnoughServerlessRecipes-fabric-26.2-0.0.1.0.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/MKwHPQ55/versions/OF63M7Af/JustEnoughServerlessRecipes-fabric-26.2-1.2.2.jar"
+url = "https://cdn.modrinth.com/data/MKwHPQ55/versions/U0BaDwMQ/JustEnoughServerlessRecipes-fabric-26.2-0.0.1.0.jar"
 hash-format = "sha512"
-hash = "960a0f7b961793b1d49111b80049105410f157ace972076a974d4f567a8985bfa9b3126b6af9b1c69e15e025332ab182379b94307bee13da4ae9cce349d50938"
+hash = "e3d997433a27d6fa450225a69518379c2abad27fa92aebacb1e8e10894a13c4a58fe9ff43321e4a35b4124dbfafd53e401559e8930af056d6234663c2bbc7a8f"
 
 [update]
 [update.modrinth]
 mod-id = "MKwHPQ55"
-version = "OF63M7Af"
+version = "U0BaDwMQ"
