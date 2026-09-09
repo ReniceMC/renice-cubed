@@ -6,6 +6,54 @@ Check out the [Updates and versions](https://renice-cubed.gitbook.io/wiki/update
 
 ## 26.2
 
+### 2.1.0-beta
+
+2026-09-09
+
+## Alpha -> Beta
+
+* Fabric Loader has been updated to 0.19.5.
+
+### Added
+
+MODS
+
+* Renice Shot
+
+### Updated
+
+MODS
+
+* Accurate Block Placement Reborn
+* Balm
+* Better Statistics Screen
+* Chat Heads
+* Crafting Tweaks
+* Crash Assistant
+* e4mc
+* Entity Model Features
+* Entity Texture Features
+* Fabric API
+* Fabric Language Kotlin
+* ImmediatelyFast
+* InventoryHUD+
+* Ixeris
+* Jade
+* Just Enough Items
+* Just Enough Serverless Recipes
+* LambDynamicLights
+* Litematica
+* Lithium
+* MaLiLib
+* MiniHUD
+* More Culling
+* No Chat Reports
+* Remove Reloading Screen
+* Simple Voice Chat
+* TCDCommons API
+* Tweakeroo
+* Xaero's World Map
+
 ### 2.0.1-alpha
 
 2026-07-27
