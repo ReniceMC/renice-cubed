@@ -34,7 +34,7 @@ hash = "3f5878535aacbfea79ae6da2f9142963f5662af3141692f0ba945767c9096ce5"
 
 [[files]]
 file = "config/modpack_defaults/config/isxander-main-menu-credits.json"
-hash = "71ecc57216d0fadaf85804111571cb85953544641297899d027fa3ce15c46e1c"
+hash = "8d020748f6a95dc6f94ed765539cfd28f3412ea15a5022176b6d17e8f5591b86"
 
 [[files]]
 file = "config/modpack_defaults/config/litematica.json"
@@ -82,7 +82,7 @@ hash = "ada7ab7e75e41608bad88c4f3857a682d784ed17d8bc13e993a18baefb3cec01"
 
 [[files]]
 file = "config/modpack_defaults/options.txt"
-hash = "6566af8e4255c06d53ff6fa3e068adae824683cf17d13f8a63c7ac308184dc57"
+hash = "27c71b4cfa81d67a239a52157530e407e41710b7c53687b2b8ebfef59f049784"
 
 [[files]]
 file = "mods/3dskinlayers.pw.toml"

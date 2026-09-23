@@ -6,6 +6,14 @@ Check out the [Updates and versions](https://renice-cubed.gitbook.io/wiki/update
 
 ## 26.2
 
+### 2.1.2
+
+2026-09-23
+
+* Accurate Block Placement Reborn's Toggle Breaking Mode has been rebound to `=`.
+* Iris shader pack selection has been rebound to `-`.
+* `Page Up` and `Page Down` are now reserved for JEI recipe navigation.
+
 ### 2.1.1
 
 2026-09-23

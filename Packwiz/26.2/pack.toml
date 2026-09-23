@@ -1,12 +1,12 @@
 name = "Renice Cubed"
 author = "Wechirok"
-version = "2.1.1"
+version = "2.1.2"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "ea066489421e85f01be85e73be3a8ee0bb9b4dcc1a2f5e0cbf78776dfbaf5b02"
+hash = "44565696ce5b3d59a60cdca73789f9483d577a6779ec1911778a0a8a723ea73f"
 
 [versions]
 fabric = "0.19.5"
