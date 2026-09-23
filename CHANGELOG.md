@@ -6,6 +6,38 @@ Check out the [Updates and versions](https://renice-cubed.gitbook.io/wiki/update
 
 ## 26.2
 
+### 2.1.1
+
+2026-09-23
+
+## Beta -> Release
+
+### Updated
+
+MODS
+
+* 3D Skin Layers
+* Collective
+* Crash Assistant
+* Entity Culling
+* Entity Model Features
+* Entity Texture Features
+* Fabric API
+* Fzzy Config
+* ImmediatelyFast
+* Iris Shaders
+* Ixeris
+* Just Enough Items
+* Mod Menu
+* Reese's Sodium Options
+* Simple Voice Chat
+* Sodium
+* Sodium Extra
+* Xaero's Minimap
+* Xaero's World Map
+* YetAnotherConfigLib
+* Zoomify
+
 ### 2.1.0-beta
 
 2026-09-09
