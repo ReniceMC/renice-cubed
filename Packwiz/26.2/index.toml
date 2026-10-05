@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/modpack_defaults/config/BBEConfig.json"
-hash = "6b5cd9dca4032bb87b5db83e8c6d4edcfaffdc8fa0b30653d77c7d3305c1eadf"
+hash = "5ddb74be59ebf3e145cdf3740c87c24c0e626c52893865e431a3eef9d10140e2"
 
 [[files]]
 file = "config/modpack_defaults/config/NoChatReports/NCR-Client.json"
@@ -14,7 +14,7 @@ hash = "4647a02b4f7c1c0cadce7b7ebeee8fce629a5d4d5c823577ddb9f96a5c6e6ac3"
 
 [[files]]
 file = "config/modpack_defaults/config/PaginatedAdvancements.json5"
-hash = "aa954dc3d038d44269246d6e97d35a155da200ab42f5b0d1257aaf4b106539d1"
+hash = "80995c3b6dcf4f5ff8a2021072bfeb4ebc04a77a8938830f369f780c4aab4fa5"
 
 [[files]]
 file = "config/modpack_defaults/config/crash_assistant/config.toml"
@@ -30,7 +30,7 @@ hash = "830e355e78e45bc5bb080a688967bee038bb650d800aa3c5b97c16e51edc62aa"
 
 [[files]]
 file = "config/modpack_defaults/config/iris.properties"
-hash = "3f5878535aacbfea79ae6da2f9142963f5662af3141692f0ba945767c9096ce5"
+hash = "08b789827f7cbfaf5bffd5aedb6dfe9889e216e87be4674299781934658767af"
 
 [[files]]
 file = "config/modpack_defaults/config/isxander-main-menu-credits.json"
@@ -62,11 +62,11 @@ hash = "833d12659c4fea92f82f99c320876ee4c03385511a442f064ee506e2f274a143"
 
 [[files]]
 file = "config/modpack_defaults/config/xaerominimap-common.txt"
-hash = "771a844d13ab6c2ff99f14b8fd912d02c55a1a4104361692b740c3e596084f6f"
+hash = "b410746ddef0f7dd5f1d860ef3fcd6ad29c10988abbf6281181cb9c3acb628ca"
 
 [[files]]
 file = "config/modpack_defaults/config/xaerominimap.txt"
-hash = "836cd55de3a435f61fad2005deb584c0b974a5e6debe097aa4cedf1cb7ceb9ac"
+hash = "fc71a352ab0c7691b34b586757802c7aae837cc97e6f5d37a42591657e587be4"
 
 [[files]]
 file = "config/modpack_defaults/config/xaerominimap_entities.json"
@@ -78,11 +78,11 @@ hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 
 [[files]]
 file = "config/modpack_defaults/config/xaeroworldmap-common.txt"
-hash = "f02ca95d7246bd4b9c7de895c46108fff42fd5fcf9d56816b7bdba821597b58f"
+hash = "ab09b6171d1f5f9c15d3ea653be739b53bca6f88db1ec38ae80575143c4c68cd"
 
 [[files]]
 file = "config/modpack_defaults/config/xaeroworldmap.txt"
-hash = "ada7ab7e75e41608bad88c4f3857a682d784ed17d8bc13e993a18baefb3cec01"
+hash = "7bcaa909613c955d99e6982018a780622dfc91c6dd462791f5e67c17599d5a3f"
 
 [[files]]
 file = "config/modpack_defaults/options.txt"
