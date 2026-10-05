@@ -1,0 +1,13 @@
+name = "Just Enough Serverless Recipes (JESR)"
+filename = "JustEnoughServerlessRecipes-fabric-26.1.2-0.0.1.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "c127635705f15e6786a6edb4f8d8759631a9bb03"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8453567
+project-id = 1507681

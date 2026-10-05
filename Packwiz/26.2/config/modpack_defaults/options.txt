@@ -1,4 +1,4 @@
-version:4435
+version:4903
 graphicsPreset:"custom"
 renderDistance:10
 simulationDistance:10
@@ -24,7 +24,6 @@ key_key.quickActions:key.keyboard.f7
 key_key.saveToolbarActivator:key.keyboard.unknown
 key_key.dynamic_fps.toggle_forced:key.keyboard.unknown
 key_key.dynamic_fps.toggle_disabled:key.keyboard.unknown
-key_betterstats.key_binding.toggle_hud_screen:key.keyboard.unknown
 key_key.craftingtweaks.compress_one:key.keyboard.unknown
 key_key.craftingtweaks.compress_all:key.keyboard.unknown
 key_key.debug.spectate:key.keyboard.right.alt

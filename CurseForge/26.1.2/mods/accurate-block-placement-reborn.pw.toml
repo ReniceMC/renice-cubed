@@ -1,0 +1,13 @@
+name = "Accurate Block Placement Reborn"
+filename = "AccurateBlockPlacement-Reborn-1.4.6+mc-26.1-26.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "17a15b7c107523fb4f3b0c23caacbe4e676d66ba"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8758120
+project-id = 886719

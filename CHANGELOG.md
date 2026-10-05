@@ -6,6 +6,48 @@ Check out the [Updates and versions](https://renice-cubed.gitbook.io/wiki/update
 
 ## 26.2
 
+### 2.2.0
+
+2026-10-05
+
+* Default settings have been updated for current Minecraft and mod versions.
+* JEI's recipe synchronization warning has been disabled.
+* Technical mod versions have been aligned with the latest official files available on both Modrinth and CurseForge.
+
+### Added
+
+MODS
+
+* MixinTrace Reborn
+
+### Updated
+
+MODS
+
+* Balm
+* Chat Heads
+* Collective
+* Debugify
+* e4mc
+* Entity Model Features
+* Entity Texture Features
+* Full Brightness Toggle
+* Just Enough Items
+* Language Reload
+* Mod Menu
+* ModernFix
+* Renice Shot
+* Zoomify
+
+### Removed
+
+MODS
+
+* Fzzy Config
+* MixinTrace
+* Text Placeholder API (standalone)
+
+
 ### 2.1.2
 
 2026-09-23
@@ -179,6 +221,70 @@ MODS
 # (1.x.x)
 
 ## 26.1.2
+
+### 1.2.0
+
+2026-10-05
+
+* Fabric Loader has been updated to 0.19.5.
+* Iris shader pack selection has been rebound to `-`.
+* Accurate Block Placement Reborn's Toggle Breaking Mode has been rebound to `=`.
+* Default settings have been updated for current Minecraft and mod versions.
+* JEI's recipe synchronization warning has been disabled.
+* Technical mod versions have been aligned with the latest official files available on both Modrinth and CurseForge.
+
+### Added
+
+MODS
+
+* MixinTrace Reborn
+
+### Updated
+
+MODS
+
+* 3D Skin Layers
+* Accurate Block Placement Reborn
+* Balm
+* Better Statistics Screen
+* Chat Heads
+* Crafting Tweaks
+* Crash Assistant
+* Debugify
+* e4mc
+* Entity Culling
+* Entity Model Features
+* Entity Texture Features
+* Fabric API
+* Fabric Language Kotlin
+* Iris Shaders
+* Ixeris
+* Jade
+* Just Enough Items
+* LambDynamicLights
+* Language Reload
+* Lithium
+* MiniHUD
+* Mod Menu
+* More Culling
+* Reese's Sodium Options
+* Simple Voice Chat
+* Sodium
+* Sodium Extra
+* TCDCommons API
+* Xaero's Minimap
+* Xaero's World Map
+* YetAnotherConfigLib
+* Zoomify
+
+### Removed
+
+MODS
+
+* Fzzy Config
+* MixinTrace
+* Text Placeholder API (standalone)
+
 
 ### 1.1.4-release
 
