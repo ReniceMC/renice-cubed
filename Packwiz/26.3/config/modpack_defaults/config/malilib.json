@@ -1,0 +1,35 @@
+{
+  "Generic": {
+    "configWriteMethod": "temp_and_rename",
+    "ignoredKeys": {
+      "keys": ""
+    },
+    "openGuiConfigs": {
+      "keys": "PERIOD,BACKSLASH"
+    },
+    "enableActionbarMessages": {
+      "enabled": true,
+      "hotkey": {
+        "keys": ""
+      }
+    },
+    "actionbarHudTicks": 60,
+    "inGameMessageTimeout": 5.0,
+    "enableConfigSwitcher": {
+      "enabled": true,
+      "hotkey": {
+        "keys": ""
+      }
+    },
+    "realmsCommonConfig": true
+  },
+  "Debug": {
+    "debugMessages": false,
+    "configElementDebug": false,
+    "inputCancellationDebugging": false,
+    "keybindDebugging": false,
+    "keybindDebuggingIngame": false,
+    "mouseScrollDebug": false,
+    "printTranslationKeys": false
+  }
+}

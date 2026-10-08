@@ -2,6 +2,84 @@
 
 Check out the [Updates and versions](https://renice-cubed.gitbook.io/wiki/updates-and-versions) page on our wiki!
 
+# (3.x.x)
+
+## 26.3
+
+### 3.0.0-beta
+
+2026-10-09
+
+* Minecraft has been updated to 26.3.
+* options.txt has been migrated to Minecraft 26.3's format.
+* Litematica, MiniHUD, Tweakeroo and Xaero's map configurations have been migrated to their current formats.
+
+### Updated
+
+MODS
+
+* 3D Skin Layers
+* Accurate Block Placement Reborn
+* Animatica Refabricated
+* AppleSkin
+* BadOptimizations
+* Balm
+* Better Block Entities
+* Better Statistics Screen
+* Chat Heads
+* Cloth Config API
+* Clumps
+* Collective
+* Continuity
+* Crafting Tweaks
+* Debugify
+* Dynamic FPS
+* Entity Culling
+* Entity Model Features
+* Entity Texture Features
+* Fabric API
+* Forge Config API Port
+* Full Brightness Toggle
+* ImmediatelyFast
+* InventoryHUD+
+* Iris Shaders
+* Ixeris
+* Jade
+* Just Enough Items
+* Just Enough Serverless Recipes
+* LambDynamicLights
+* Language Reload
+* Litematica
+* Lithium
+* MaLiLib
+* MiniHUD
+* Mod Menu
+* ModernFix
+* More Culling
+* No Chat Reports
+* OptiGUI
+* Puzzle
+* Reese's Sodium Options
+* Renice Shot
+* Remove Reloading Screen
+* Simple Voice Chat
+* Sodium
+* Sodium Extra
+* Sound Physics Remastered
+* TCDCommons API
+* Tweakeroo
+* Xaero's Minimap
+* Xaero's World Map
+* YetAnotherConfigLib
+* Zoomify
+
+### Removed
+
+MODS
+
+* Cubes Without Borders
+* Paginated Advancements & Custom Frames
+
 # (2.x.x)
 
 ## 26.2
