@@ -38,6 +38,10 @@ on:
         required: true
         default: true
         type: boolean
+      curseforge_only:
+        description: Publish to CurseForge and attach the ZIP to an existing GitHub release
+        default: false
+        type: boolean
 
 permissions:
   contents: write
@@ -72,12 +76,17 @@ jobs:
           MODRINTH_TOKEN: ${{ secrets.MODRINTH_TOKEN }}
           CURSEFORGE_TOKEN: ${{ secrets.CURSEFORGE_TOKEN }}
           PUBLISH_CURSEFORGE: ${{ inputs.publish_curseforge }}
+          CURSEFORGE_ONLY: ${{ inputs.curseforge_only }}
         run: |
           if [[ "$GITHUB_REF_NAME" != "$DEFAULT_BRANCH" ]]; then
             echo "Run this workflow from $DEFAULT_BRANCH" >&2
             exit 1
           fi
-          if [[ -z "$MODRINTH_TOKEN" ]]; then
+          if [[ "$CURSEFORGE_ONLY" == "true" && "$PUBLISH_CURSEFORGE" != "true" ]]; then
+            echo "CurseForge must be enabled for a CurseForge-only release" >&2
+            exit 1
+          fi
+          if [[ "$CURSEFORGE_ONLY" != "true" && -z "$MODRINTH_TOKEN" ]]; then
             echo "MODRINTH_TOKEN must be configured" >&2
             exit 1
           fi
@@ -199,7 +208,7 @@ jobs:
             --fabric-loader "$FABRIC_LOADER"
 
       - name: Publish GitHub and Modrinth release
-        if: github.event_name == 'workflow_dispatch'
+        if: github.event_name == 'workflow_dispatch' && !inputs.curseforge_only
         uses: Kira-NT/mc-publish@52307b03863581dec6b652b83e597aec02ebb075 # v3.3.1
         with:
           modrinth-id: ${{ env.MODRINTH_PROJECT_ID }}
@@ -225,6 +234,13 @@ jobs:
           game-version-filter: none
           environment: client
 
+      - name: Find existing GitHub release
+        if: github.event_name == 'workflow_dispatch' && inputs.curseforge_only
+        env:
+          GH_TOKEN: ${{ github.token }}
+          VERSION_ID: ${{ steps.release.outputs.version_id }}
+        run: gh release view "v$VERSION_ID" --repo "$GITHUB_REPOSITORY"
+
       - name: Publish CurseForge release
         if: github.event_name == 'workflow_dispatch' && env.BUILD_CURSEFORGE == 'true'
         uses: Kira-NT/mc-publish@52307b03863581dec6b652b83e597aec02ebb075 # v3.3.1
@@ -240,3 +256,11 @@ jobs:
           game-versions: ${{ env.MC_VERSION }}
           game-version-filter: none
           environment: client
+
+      - name: Attach CurseForge archive to GitHub
+        if: github.event_name == 'workflow_dispatch' && inputs.curseforge_only
+        env:
+          GH_TOKEN: ${{ github.token }}
+          VERSION_ID: ${{ steps.release.outputs.version_id }}
+          ARTIFACT_NAME: ${{ steps.release.outputs.artifact_name }}
+        run: gh release upload "v$VERSION_ID" "dist/$ARTIFACT_NAME.zip" --repo "$GITHUB_REPOSITORY"
