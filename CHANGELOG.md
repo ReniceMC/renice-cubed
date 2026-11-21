@@ -6,6 +6,16 @@ Check out the [Updates and versions](https://renice-cubed.gitbook.io/wiki/update
 
 ## 26.3
 
+### 3.1.1-beta
+
+2026-11-21
+
+### Removed
+
+MODS
+
+* No Chat Reports
+
 ### 3.1.0-beta
 
 2026-11-21
