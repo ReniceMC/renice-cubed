@@ -6,6 +6,52 @@ Check out the [Updates and versions](https://renice-cubed.gitbook.io/wiki/update
 
 ## 26.3
 
+### 3.1.0-beta
+
+2026-11-21
+
+* Fabric Loader has been updated to 0.20.1.
+
+### Added
+
+MODS
+
+* Cubes Without Borders
+* Paginated Advancements & Custom Frames
+* MezzConfig
+
+### Updated
+
+MODS
+
+* 3D Skin Layers
+* Accurate Block Placement Reborn
+* Animatica Refabricated
+* Better Block Entities
+* Better Statistics Screen
+* Collective
+* Config Manager
+* Crafting Tweaks
+* Entity Culling
+* Entity Model Features
+* Entity Texture Features
+* Fabric API
+* Fabric Language Kotlin
+* Full Brightness Toggle
+* InventoryHUD+
+* Ixeris
+* Just Enough Items
+* Lithium
+* Mod Menu
+* More Culling
+* OptiGUI
+* Simple Voice Chat
+* Sodium Extra
+* Sound Physics Remastered
+* TCDCommons API
+* Xaero's Minimap
+* Xaero's World Map
+
 ### 3.0.0-beta
 
 2026-10-09
