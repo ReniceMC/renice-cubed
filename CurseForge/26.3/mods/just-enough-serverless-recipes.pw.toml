@@ -1,0 +1,13 @@
+name = "Just Enough Serverless Recipes"
+filename = "JustEnoughServerlessRecipes-fabric-26.3-0.1.0.0.jar"
+side = "client"
+
+[download]
+hash-format = "sha1"
+hash = "afc4230e8529d011853cab6a8f56eff3177b24f0"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 9047107
+project-id = 1507681
